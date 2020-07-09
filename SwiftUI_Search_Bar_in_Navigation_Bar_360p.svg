@@ -9,6 +9,6 @@
 	<use xlink:href="#maskPath"  style="overflow:visible;"/>
 </clipPath>
 
-<image style="overflow:visible;clip-path:url(#mask);" width="640" height="360" xlink:href="SwiftUI_Search_Bar_in_Navigation_Bar_360p.gif"/>
+<image style="overflow:visible;clip-path:url(#mask);" width="640" height="360" xlink:href="https://github.com/Geri-Borbas/Geri-Borbas/raw/master/SwiftUI_Search_Bar_in_Navigation_Bar_360p.gif"/>
 
 </svg>
